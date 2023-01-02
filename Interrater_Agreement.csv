@@ -1,0 +1,53 @@
+﻿Item;Rater1;Rater2;Rater3;Rater4;Rater5;Questionnaire
+MLRC_01;yes;yes;yes;yes;yes;1
+MLRC_02;no;no;no;cannot be judged;no;1
+MLRC_03;no;no;no;yes;no;1
+MLRC_04;yes;no;yes;cannot be judged;yes;1
+MLRC_05;no;cannot be judged;no;cannot be judged;yes;1
+MLRC_06;yes;yes;yes;yes;yes;1
+MLRC_07;no;yes;no;yes;yes;1
+MLRC_08;yes;yes;yes;yes;no;1
+MLRC_09;no;no;no;yes;yes;1
+MLRC_10;yes;yes;yes;cannot be judged;no;1
+MLRC_11;yes;yes;yes;yes;no;1
+MLRC_12;yes;no;no;yes;no;1
+MLRC_13;yes;no;no;yes;no;1
+MLRC_14;cannot be judged;yes;no;yes;no;1
+MLRC_15;no;no;no;no;no;1
+MLRC_16;no;yes;no;yes;yes;1
+MLRC_17;no;yes;no;yes;no;1
+MLRC_18;yes;yes;yes;yes;yes;1
+MLRC_19;yes;yes;yes;yes;yes;1
+MLRC_20;yes;no;yes;yes;yes;1
+MLRC_21;no;no;no;no;no;1
+BSGS_01;yes;no;yes;yes;yes;2
+BSGS_02;yes;yes;cannot be judged;yes;yes;2
+BSGS_03;yes;no;yes;yes;yes;2
+BSGS_04;no;no;no;yes;no;2
+BSGS_05;yes;no;no;yes;yes;2
+BSGS_06;yes;no;no;cannot be judged;no;2
+BSGS_07;no;no;no;no;no;2
+TFA_01;no;no;no;yes;yes;3
+TFA_02;yes;no;yes;yes;yes;3
+TFA_03;no;no;no;no;no;3
+TFA_04;yes;no;yes;yes;yes;3
+TFA_05;yes;yes;yes;yes;yes;3
+TFA_06;yes;no;no;yes;no;3
+TFA_07;yes;no;no;yes;no;3
+TFA_08;yes;no;yes;yes;yes;3
+TFA_09;no;no;no;no;yes;3
+TFA_10;no;no;no; ;no;3
+TFA_11;no;no;no;no;no;3
+TFA_12;yes;yes;yes;yes;yes;3
+TFA_13;no;no;no;no;no;3
+TFA_14;yes;yes;yes;yes;no;3
+TFA_15;yes;yes;yes;yes;yes;3
+TFA_16;yes;no;yes;yes;yes;3
+TFA_17;yes;yes;yes;yes;yes;3
+TFA_18;yes;no;no;no;no;3
+TFA_19;yes;yes;yes;yes;yes;3
+TFA_20;no;no;no;no;no;3
+TFA_21;yes;yes;yes;yes;yes;3
+TFA_22;no;no;no;no;no;3
+TFA_23;no;no;no;no;no;3
+TFA_24;no;no;no;no;yes;3
