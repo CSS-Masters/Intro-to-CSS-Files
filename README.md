@@ -43,7 +43,8 @@ Ranking of psychology journals. Downloaded from https://www.scimagojr.com/journa
 
 ## How to replicate:
 
-In SPSS, import File_ML_checklists.sav. Then run the SPSS-Syntax-File Data_Preparation.sps to calculate group and sum scores on the checklists survey. The dataset should now be similar to Article_checklists.sav. Run Interrater_agreement.sps to process interrater agreement statistics. The resulting output should be similar to the ones in Interrater_Agreement.sav. Next, run Calculation.sps. Again, the resulting data should be similar to the ones in Article_checklists.sav.
+In SPSS, import File_ML_checklists.sav. Then run the SPSS-Syntax-File Data_Preparation.sps to calculate group and sum scores on the checklists survey. The dataset should now be similar to Article_checklists.sav. Run Interrater_agreement.sps to process interrater agreement statistics. The resulting output should be similar to the ones in Interrater_Agreement.sav. Next, run Calculation.sps. Again, the resulting data should be similar to the ones in Article_checklists_Data.sav.
+
 
 We have not tested our analysis in Python or R, so we can only guarantee for the validity of our results when using SPSS. Still, our analysis can be reproduced by following these steps:
 
@@ -63,6 +64,10 @@ Use Landis Kappa to calculate interrater agreements between every rater on one p
 4. Calculations
 
 Firstoff, compute the percentage of fulfilled criteria on every single checklist as well as the percentage of not judged answers for every single checklist. Then, run Kruskal Wallis Test to check if there is a difference between disciplines (sum scores and not judged answers). Next, run Kendall's Tau on the sum scores. Finally, run Kruskal Wallis Test to check if there is a difference between disciplines (percentages) 
+
+
+
+Further information and instructions on paper selection can be found in the original paper. 
 
 
 
